@@ -1,6 +1,6 @@
 # BV-NORM: A neural operator learning framework for parametric boundary value problems on complex geometric domains in engineering
-![images](image/framework1.png)
-![images](image/framework2.png)
+- ![images](image/framework1.png)
+- ![images](image/framework2.png)
 
 - This repository contains codes and datas accompanying our paper : _BV-NORM: A neural operator learning framework for parametric boundary value problems on complex geometric domains in engineering_. 
 - For more details, feel free to contact us (fengliang@nuaa.edu.cn).
@@ -41,16 +41,16 @@ Case6-BloodFlow.mat
 
 ## Results
 ### Case1
-![images](image/Case1.png)
+- ![images](image/Case1.png)
 ---------------------------------------------------
 ### Case2
-![images](image/Case2.png)
+- ![images](image/Case2.png)
 ---------------------------------------------------
 ### Case3
-![images](image/Case3.png)
+- ![images](image/Case3.png)
 ---------------------------------------------------
 ### Case4
-![images](image/Case4.png)
+- ![images](image/Case4.png)
 ---------------------------------------------------
 
 
