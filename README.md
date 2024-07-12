@@ -1,10 +1,11 @@
 # BV-NORM: A neural operator learning framework for parametric boundary value problems on complex geometric domains in engineering
-- ![images](image/framework1.png)
-- ![images](image/framework2.png)
-
 - This repository contains codes and datas accompanying our paper : _BV-NORM: A neural operator learning framework for parametric boundary value problems on complex geometric domains in engineering_. 
 - For more details, feel free to contact us (fengliang@nuaa.edu.cn).
-
+- 
+## BV-NORM
+- ![images](image/framework1.png)
+- ![images](image/framework2.png)
+- 
 ## Dependencies & packages
 Dependencies:
 - Python (tested on 3.8.13)
